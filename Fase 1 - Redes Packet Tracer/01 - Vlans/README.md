@@ -36,15 +36,15 @@ interface fa0/2
 
 Ambos puertos en VENTAS: el ping responde.
 
-![show vlan brief con ambos puertos en VLAN 10](capturas/01-show-vlan-brief-vlan10-juntas.png)
-![ping exitoso entre PC0 y PC1](capturas/02-ping-ok-vlan10-juntas.png)
+![show vlan brief con ambos puertos en VLAN 10](Capturas/01-show-vlan-brief-vlan10-juntas.png)
+![ping exitoso entre PC0 y PC1](Capturas/02-ping-ok-vlan10-juntas.png)
 
 ### Escenario B: PC0 en VLAN 10 y PC1 en VLAN 20
 
 Cada puerto en una VLAN distinta: el ping falla, aunque las dos PCs tienen IPs de la misma subred.
 
-![show vlan brief con las VLANs separadas](capturas/03-show-vlan-brief-vlan-separadas.png)
-![ping fallando entre PC0 y PC1](capturas/04-ping-falla-vlans-separadas.png)
+![show vlan brief con las VLANs separadas](Capturas/03-show-vlan-brief-vlan-separadas.png)
+![ping fallando entre PC0 y PC1](Capturas/04-ping-falla-vlans-separadas.png)
 
 | Escenario | Resultado |
 |---|---|
