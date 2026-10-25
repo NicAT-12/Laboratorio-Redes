@@ -20,10 +20,10 @@ Segunda práctica de la Fase 1 del laboratorio de redes. Se extienden las VLANs 
 
 | Equipo | Puerto | Conectado a |
 |---|---|---|
-| PC0 | - | SW1 Fa0/1 |
-| PC1 | - | SW1 Fa0/2 |
-| PC2 | - | SW2 Fa0/1 |
-| PC3 | - | SW2 Fa0/2 |
+| PC0 | Fa0/1 | SW1 Fa0/1 |
+| PC1 | Fa0/2 | SW1 Fa0/2 |
+| PC2 | Fa0/1 | SW2 Fa0/1 |
+| PC3 | Fa0/2 | SW2 Fa0/2 |
 | SW1 | Fa0/24 | SW2 Fa0/24 (trunk) |
 
 ## Direccionamiento
